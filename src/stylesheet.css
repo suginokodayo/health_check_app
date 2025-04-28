@@ -1,0 +1,117 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+body{
+    font-family: 'Hiragino Kaku gothic ProN W3', sans-serif;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    max-width: 1170px;
+    width: 100%;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+.header{
+    height: 100px;
+    background-color: rgba(34, 49, 52, 0.9);
+    color:white;
+    position:fixed;
+    width: 100%;
+    z-index: 9999;
+}
+.header h1{
+    padding: 12.5px 5px;
+    font-size: 50px !important;
+    float:left;
+}
+.header-list a{
+    font-size :40px !important;
+    padding: 17.5px 20px;
+    color: white;
+    display: inline-block;
+    transition: all 0.2s;
+}
+.header-list a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+.header-list a:active{
+    background-color: rgba(255, 255, 255, 0.5)
+}
+.navbar .nav-link {
+    font-size: 16px; 
+}
+.input-forms{
+    padding-top:100px; 
+    font-size: 20px;
+}
+.data-input-list{
+    background-color: #F7F7F7;
+    border: 1px solid blue ;
+}
+.input-inner{
+    margin-top: 10px;
+    border-top: 1px solid gray;
+    padding-left: 10px;
+}
+.radio-container{
+    display: inline-block;
+}
+.radio-container input{
+    display: inline-block;
+}
+.unit-box{
+    margin: 10px;
+    font-size: 20px;
+}
+.unit-box input{
+    padding: 5px;
+    font-size: 18px;
+    width: 10%;
+}
+.unit-box textarea{
+    width: 30%;
+    height: 150px;
+}
+dd p{
+    display: inline-block;
+}
+.next-btn{
+    font-size: 20px;
+    padding: 5px auto;
+    border-radius: 1px;
+}
+.analysis_input{
+    padding-top: 100px;
+}
+.analysis_results{
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+.simple_analysis{
+    padding-top: 10px;
+}
+.analysis{
+    border-top: 1px solid gray;
+    padding-top: 10px;
+}
+.footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+}
+.footer h3{
+    font-size: 40px;
+}
+.footer p{
+    font-size: 15px;
+    float: right;
+} 
+

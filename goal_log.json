@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2025-04-02",
+    "changed": {
+      "smartphone_limit": {
+        "old": null,
+        "new": 60.0
+      },
+      "masturbation_limit": {
+        "old": null,
+        "new": 0
+      },
+      "sleeptime_goal": {
+        "old": null,
+        "new": 420.0
+      },
+      "exercisetime_goal": {
+        "old": null,
+        "new": 30.0
+      },
+      "inputtime_goal": {
+        "old": null,
+        "new": 60.0
+      },
+      "outputtime_goal": {
+        "old": null,
+        "new": 120.0
+      },
+      "dentifrice_goal": {
+        "old": null,
+        "new": 2
+      },
+      "dentalfloss_goal": {
+        "old": null,
+        "new": 1
+      }
+    }
+  },
+  {
+    "date": "2025-04-18",
+    "changed": {
+      "sleeptime_goal": {
+        "old": 420.0,
+        "new": 480.0
+      }
+    }
+  },
+  {
+    "date": "2025-04-25",
+    "changed": {
+      "sleeptime_goal": {
+        "old": 480.0,
+        "new": 450.0
+      }
+    }
+  }
+]

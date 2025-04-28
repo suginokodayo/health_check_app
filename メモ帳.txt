@@ -1,0 +1,5 @@
+導入リスト
+npm install react-router-dom
+npm install bootstrap
+npm install react-select
+npm install plotly.js react-plotly.js
